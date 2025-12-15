@@ -3,7 +3,7 @@ Emotion recognition and classification
 
 CREMA-D dataset : https://www.kaggle.com/datasets/ejlok1/cremad
 
-    Download and adjust path in main.py
+Download and adjust path in main.py
 
 Data extraction will result in a .csv file in "/RESULTS". Once data is extracted, "reset_extraction" should be set to "False" to accelerate process.
 
