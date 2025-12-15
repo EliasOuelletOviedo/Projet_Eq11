@@ -1,5 +1,5 @@
 Analysis of CREMA-D dataset. 
-Emotion recognition and classification
+Emotion recognition and classification.
 
 CREMA-D dataset : https://www.kaggle.com/datasets/ejlok1/cremad
 
